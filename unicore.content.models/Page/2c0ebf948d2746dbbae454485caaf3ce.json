@@ -1,17 +1,17 @@
 {
   "subtitle": "FRA 8 months old", 
-  "description": "Faites attention, le b\u00e9b\u00e9 se d\u00e9place !", 
+  "description": "Faites attention, le b\u00e9b\u00e9 se d\u00e9place!", 
   "language": "fre_FR", 
   "title": "8 mois", 
   "primary_category": "39426ee2b7ee43cf88408161076d5d2e", 
   "created_at": "2015-05-08T10:24:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-08T10:24:26.720260+00:00", 
+  "modified_at": "2015-05-08T10:33:19.045738+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "8-mois", 
   "uuid": "2c0ebf948d2746dbbae454485caaf3ce"
