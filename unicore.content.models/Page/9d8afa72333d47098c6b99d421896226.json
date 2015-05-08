@@ -1,17 +1,17 @@
 {
   "subtitle": "FRA 6 months old", 
-  "description": "Donnez-lui autre chose que du lait.", 
+  "description": "Donnez-lui autre chose que du lait", 
   "language": "fre_FR", 
   "title": "6 mois", 
   "primary_category": "39426ee2b7ee43cf88408161076d5d2e", 
   "created_at": "2015-05-08T10:20:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-08T10:21:44.605112+00:00", 
+  "modified_at": "2015-05-08T10:34:08.124088+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "6-mois", 
   "uuid": "9d8afa72333d47098c6b99d421896226"
