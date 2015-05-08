@@ -1,0 +1,20 @@
+{
+  "subtitle": "Pregnancy", 
+  "uuid": "dded078c6411444392e88e330c3f28a5", 
+  "language": "fre_FR", 
+  "title": "Grossesse", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "grossesse", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
