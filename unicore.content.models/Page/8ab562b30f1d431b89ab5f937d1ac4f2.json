@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "a23f94d5916949698d4be88f9a513b35", 
+    "ff56d7ff58b0426f80e3c304dece042d", 
+    "c6f0305199a64660bdafc2736662d9f8"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nIf you are living with HIV, you are not alone; lots of pregnant women are living with HIV. But you can prevent it being passed to your baby with the right care during pregnancy.\r\n\r\nIf you have not been tested for HIV yet, you may be able to get tested by your nurse or midwife. Only you will know the results. Take your partner with you, so he can be tested as well.\r\n\r\nIf your first HIV test was negative you will be offered another test later in pregnancy. Please take it if you can. You can avoid passing HIV to your baby with the right care.\r\n\r\nIt can be scary to find out you have HIV. Give yourself time to get used to it. No one can see it and lots of pregnant women are living with it. Medicine will help to prevent transmission of HIV to your baby. Health facilities may offer this medicine for free.\r\n\r\nYou can lead a normal life if you take all your medicines and look after yourself. \r\n\r\nYou will need medicines called antiretrovirals (ARVs). ARVs help you live a healthy life. ARVs also help to make sure that HIV does not spread to your baby. \r\n\r\nIf you have HIV, your baby will also need to take ARVs in the first 6 weeks of her life. They can prevent her developing HIV when you are breastfeeding her.\r\n", 
   "source": null, 
