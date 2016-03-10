@@ -6,12 +6,12 @@
   "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2015-05-11T10:06:04+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-12T09:03:17.475381+00:00", 
+  "modified_at": "2016-03-10T14:08:12.743755+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "my-baby-move", 
   "uuid": "4ce8c27ac87148b6a711d468f3ee0f32"
